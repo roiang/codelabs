@@ -1,10 +1,7 @@
-<<<<<<< Updated upstream
 //many errors wtf is this  whare are my commits? in this proyect can they readme?
 
-=======
 import 'package:firebase_auth/firebase_auth.dart'; //new
 import 'package:firebase_core/firebase_core.dart'; //new
->>>>>>> Stashed changes
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
